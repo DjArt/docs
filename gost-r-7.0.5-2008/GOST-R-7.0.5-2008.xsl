@@ -317,7 +317,7 @@
           <halign>left</halign>
           <valign>top</valign>
           <format lcid="1033">{%Author:233%. }{%Title%, }{%Department%, }{%Institution%, }{%City|StateProvince|CountryRegion%, }{%StateProvince|CountryRegion%, }{%CountryRegion%, }{%ThesisType% }{%StandardNumber%, }{{%Month:s%{ %Day%,}} %Year%}.{ [Online]. %URL:l%}{ %Pages% pp.}</format>
-          <format lcid="1049">{%Author:249%. }{%Title%, }{%Department%, }{%Institution%, }{%City|StateProvince|CountryRegion%, }{%StateProvince|CountryRegion%, }{%CountryRegion%, }{%ThesisType% }{%StandardNumber%, }{{%Month:s%{ %Day%,}} %Year%}.{ [Online]. %URL:l%}{ %Pages% с.}</format>
+          <format lcid="1049">{%Author:249%. }{%Title%, }{%Department%, }{%Institution%, }{%City|StateProvince|CountryRegion%, }{%StateProvince|CountryRegion%, }{%CountryRegion%, }{%ThesisType% }{%StandardNumber%, }{{%Month:s%{ %Day%,}} %Year%}.{ [URL]. %URL:l%}{ %Pages% с.}</format>
         </column>
         <sortkey></sortkey>
       </source>
