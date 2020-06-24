@@ -171,7 +171,7 @@
         <format>[%Tag%]</format>
       </source>
       <source type="Book">
-        <format>{%CitationPrefix%}%BibOrder%{, vol. %CitationVolume%}{, %CitationPages:p. :pp. %}{%CitationSuffix%}</format>
+        <format>{%CitationPrefix%}%BibOrder%{, vol. %CitationVolume%}{, %CitationPages:с. :pp. %}{%CitationSuffix%}</format>
       </source>
       <source type="BookSection">
         <format>{%BibOrder%}</format>
