@@ -531,37 +531,66 @@
     </namelists>
     <strings>
       <months>
-        <month number="1">Jan</month>
-        <month number="2">Feb</month>
-        <month number="3">Mar</month>
-        <month number="4">Apr</month>
-        <month number="5">May</month>
-        <month number="6">Jun</month>
-        <month number="7">Jul</month>
-        <month number="8">Aug</month>
-        <month number="9">Sep</month>
-        <month number="10">Oct</month>
-        <month number="11">Nov</month>
-        <month number="12">Dec</month>
+        <month lcid="1033" number="1">Jan</month>
+        <month lcid="1033" number="2">Feb</month>
+        <month lcid="1033" number="3">Mar</month>
+        <month lcid="1033" number="4">Apr</month>
+        <month lcid="1033" number="5">May</month>
+        <month lcid="1033" number="6">Jun</month>
+        <month lcid="1033" number="7">Jul</month>
+        <month lcid="1033" number="8">Aug</month>
+        <month lcid="1033" number="9">Sep</month>
+        <month lcid="1033" number="10">Oct</month>
+        <month lcid="1033" number="11">Nov</month>
+        <month lcid="1033" number="12">Dec</month>
+		<month lcid="1049" number="1">Янв</month>
+        <month lcid="1049" number="3">Мар</month>
+        <month lcid="1049" number="2">Фев</month>
+        <month lcid="1049" number="4">Апр</month>
+        <month lcid="1049" number="5">Май</month>
+        <month lcid="1049" number="6">Июн</month>
+        <month lcid="1049" number="7">Июл</month>
+        <month lcid="1049" number="8">Авг</month>
+        <month lcid="1049" number="9">Сен</month>
+        <month lcid="1049" number="10">Окт</month>
+        <month lcid="1049" number="11">Ноя</month>
+        <month lcid="1049" number="12">Дек</month>
       </months>
       <sourcetypes>
-        <sourcetype type="Art">Art</sourcetype>
-        <sourcetype type="ArticleInAPeriodical">Article</sourcetype>
-        <sourcetype type="Book">Book</sourcetype>
-        <sourcetype type="BookSection">Book Section</sourcetype>
-        <sourcetype type="Case">Case</sourcetype>
-        <sourcetype type="ConferenceProceedings">Conference Proceedings</sourcetype>
-        <sourcetype type="DocumentFromInternetSite">Electronic Document</sourcetype>
-        <sourcetype type="ElectronicSource">Electronic Source</sourcetype>
-        <sourcetype type="Film">Film</sourcetype>
-        <sourcetype type="InternetSite">Web Site</sourcetype>
-        <sourcetype type="Interview">Interview</sourcetype>
-        <sourcetype type="JournalArticle">Journal Article</sourcetype>
-        <sourcetype type="Misc">Miscellaneous</sourcetype>
-        <sourcetype type="Patent">Patent</sourcetype>
-        <sourcetype type="Performance">Performance</sourcetype>
-        <sourcetype type="Report">Report</sourcetype>
-        <sourcetype type="SoundRecording">Sound Recording</sourcetype>
+        <sourcetype lcid="1033" type="Art">Art</sourcetype>
+        <sourcetype lcid="1033" type="ArticleInAPeriodical">Article</sourcetype>
+        <sourcetype lcid="1033" type="Book">Book</sourcetype>
+        <sourcetype lcid="1033" type="BookSection">Book Section</sourcetype>
+        <sourcetype lcid="1033" type="Case">Case</sourcetype>
+        <sourcetype lcid="1033" type="ConferenceProceedings">Conference Proceedings</sourcetype>
+        <sourcetype lcid="1033" type="DocumentFromInternetSite">Electronic Document</sourcetype>
+        <sourcetype lcid="1033" type="ElectronicSource">Electronic Source</sourcetype>
+        <sourcetype lcid="1033" type="Film">Film</sourcetype>
+        <sourcetype lcid="1033" type="InternetSite">Web Site</sourcetype>
+        <sourcetype lcid="1033" type="Interview">Interview</sourcetype>
+        <sourcetype lcid="1033" type="JournalArticle">Journal Article</sourcetype>
+        <sourcetype lcid="1033" type="Misc">Miscellaneous</sourcetype>
+        <sourcetype lcid="1033" type="Patent">Patent</sourcetype>
+        <sourcetype lcid="1033" type="Performance">Performance</sourcetype>
+        <sourcetype lcid="1033" type="Report">Report</sourcetype>
+        <sourcetype lcid="1033" type="SoundRecording">Sound Recording</sourcetype>
+		<sourcetype lcid="1049" type="Art">Статья</sourcetype>
+        <sourcetype lcid="1049" type="ArticleInAPeriodical">Статья периодического издания</sourcetype>
+        <sourcetype lcid="1049" type="Book">Книга</sourcetype>
+        <sourcetype lcid="1049" type="BookSection">Раздел книги</sourcetype>
+        <sourcetype lcid="1049" type="Case">Дело</sourcetype>
+        <sourcetype lcid="1049" type="ConferenceProceedings">Материалы конференции</sourcetype>
+        <sourcetype lcid="1049" type="DocumentFromInternetSite">Электронный документ</sourcetype>
+        <sourcetype lcid="1049" type="ElectronicSource">Электронный источник</sourcetype>
+        <sourcetype lcid="1049" type="Film">Фильм</sourcetype>
+        <sourcetype lcid="1049" type="InternetSite">Веб-сайт</sourcetype>
+        <sourcetype lcid="1049" type="Interview">Интервью</sourcetype>
+        <sourcetype lcid="1049" type="JournalArticle">Статья журнала</sourcetype>
+        <sourcetype lcid="1049" type="Misc">Иное</sourcetype>
+        <sourcetype lcid="1049" type="Patent">Патент</sourcetype>
+        <sourcetype lcid="1049" type="Performance">Представление</sourcetype>
+        <sourcetype lcid="1049" type="Report">Отчёт</sourcetype>
+        <sourcetype lcid="1049" type="SoundRecording">Звукозапись</sourcetype>
       </sourcetypes>
     </strings>
     <extensions>
