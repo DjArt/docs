@@ -403,7 +403,7 @@
           <halign>left</halign>
           <valign>top</valign>
           <format lcid="1033">{%Author:233%. }{%Title%, }{%Institution%, }{%ThesisType% }{%StandardNumber%}{,{ %Month:s%} %Year%}.{ [Online]. %URL:l%}</format>
-          <format lcid="1049">{%Author:249%. }{%Title%, }{%Institution%, }{%ThesisType% }{%StandardNumber%}{,{ %Month:s%} %Year%}.{ [Online]. %URL:l%}</format>
+          <format lcid="1049">{%Author:249%. }{%Title%, }{%Institution%, }{%ThesisType% }{%StandardNumber%}{,{ %Month:s%} %Year%}.{ [URL]. %URL:l%}</format>
         </column>
         <sortkey></sortkey>
       </source>
@@ -417,7 +417,7 @@
           <halign>left</halign>
           <valign>top</valign>
           <format lcid="1033">{%Author:233%. }{%Title%, }{%ThesisType%, }{%Institution%, }{%City|StateProvince|CountryRegion%}{, %StateProvince|CountryRegion%}{, %CountryRegion%}{, %Year%}.{ [Online]. %URL:l%}</format>
-          <format lcid="1049">{%Author:249%. }{%Title%, }{%ThesisType%, }{%Institution%, }{%City|StateProvince|CountryRegion%}{, %StateProvince|CountryRegion%}{, %CountryRegion%}{, %Year%}.{ [Online]. %URL:l%}</format>
+          <format lcid="1049">{%Author:249%. }{%Title%, }{%ThesisType%, }{%Institution%, }{%City|StateProvince|CountryRegion%}{, %StateProvince|CountryRegion%}{, %CountryRegion%}{, %Year%}.{ [URL]. %URL:l%}</format>
         </column>
         <sortkey></sortkey>
       </source>
