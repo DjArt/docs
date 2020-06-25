@@ -171,13 +171,15 @@
         <format>[%Tag%]</format>
       </source>
       <source type="Book">
-        <format>{%CitationPrefix%}%RefOrder%{, vol. %CitationVolume%}{, %CitationPages:p. :pp. %}{%CitationSuffix%}</format>
+        <format lcid="1049">{%CitationPrefix%}%RefOrder%{, т. %CitationVolume%}{, %CitationPages:с. :с. %}{%CitationSuffix%}</format>
+        <format lcid="1033">{%CitationPrefix%}%RefOrder%{, vol. %CitationVolume%}{, %CitationPages:p. :pp. %}{%CitationSuffix%}</format>
       </source>
       <source type="BookSection">
         <format>{%RefOrder%}</format>
       </source>
       <source type="JournalArticle">
-        <format>{%CitationPrefix%}%RefOrder%{, vol. %CitationVolume%}{, %CitationPages:p. :pp. %}{%CitationSuffix%}</format>
+        <format lcid="1049">{%CitationPrefix%}%RefOrder%{, т. %CitationVolume%}{, %CitationPages:с. :с. %}{%CitationSuffix%}</format>
+        <format lcid="1033">{%CitationPrefix%}%RefOrder%{, vol. %CitationVolume%}{, %CitationPages:p. :pp. %}{%CitationSuffix%}</format>
       </source>
       <source type="ArticleInAPeriodical">
         <format>{%RefOrder%}</format>
@@ -192,7 +194,8 @@
         <format>{%RefOrder%}</format>
       </source>
       <source type="DocumentFromInternetSite">
-        <format>{%RefOrder%}</format>
+        <format lcid="1049">{%RefOrder%}{, %CitationPages:с. :с. %}</format>
+        <format lcid="1033">{%RefOrder%}{, %CitationPages:p. :pp. %}</format>
       </source>
       <source type="ElectronicSource">
         <format>{%RefOrder%}</format>
